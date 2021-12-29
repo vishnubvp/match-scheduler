@@ -1,0 +1,30 @@
+Total Number of Matches Scheduled 12
+*********  Match Schedule  *********
+Chennai 's Home Matches with Below Opponents
+---------------------------
+MatchId   Opponent TeamName
+---------------------------
+   1        Kerala
+   3        Bangalore
+   5        Pune
+Kerala 's Home Matches with Below Opponents
+---------------------------
+MatchId   Opponent TeamName
+---------------------------
+   2        Chennai
+   7        Bangalore
+   9        Pune
+Bangalore 's Home Matches with Below Opponents
+---------------------------
+MatchId   Opponent TeamName
+---------------------------
+   4        Chennai
+   8        Kerala
+   11        Pune
+Pune 's Home Matches with Below Opponents
+---------------------------
+MatchId   Opponent TeamName
+---------------------------
+   6        Chennai
+   10        Kerala
+   12        Bangalore

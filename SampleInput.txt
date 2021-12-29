@@ -1,0 +1,7 @@
+Enter Number of Teams
+4
+Enter Team Names
+Chennai
+Kerala
+Bangalore
+Pune
