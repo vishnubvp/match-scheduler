@@ -6,7 +6,7 @@ Match Scheduler
 ```
 ├── MatchScheduler            // Source files 
    ├── businesslogic          // Source files for businesslogic codes
-   ├── model                  // Soruce files getters and setters used
+   ├── model                  // Soruce files with getters and setters 
    ├── util                   // Soruce files for utility functions/generic functions used across buss logics
   
 
